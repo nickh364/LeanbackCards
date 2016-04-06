@@ -3,7 +3,7 @@
     package="com.hitherejoe.leanbackcards"
     tools:ignore="MissingLeanbackLauncher">
 
-    <uses-feature android:name="android.software.leanback" android:required="true"/>
+    <uses-feature android:name="android.software.leanback" android:required="false"/>
 
     <application tools:ignore="AllowBackup,GoogleAppIndexingWarning,MissingApplicationIcon" />
 
